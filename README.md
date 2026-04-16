@@ -11,8 +11,10 @@
 ## 👨‍💻 About Me
 
 - 🎓 **MSc Robotics & AI** — autonomous systems and perception
+- 💼 **Imaging & CV Engineer @ Microsoft**
 - 📍 Based in **Redmond, WA**
 - 🔭 Working on **Computer Vision, Deep Learning, and Motion Planning**
+- 🚀 Transitioning into **AI Engineering**
 - 🌱 Exploring **LLMs, Multimodal AI, and Agentic Systems**
 - 💼 **Open to Full-Time opportunities** in AI / ML / Robotics
 - 🌐 [Portfolio](https://chigurupatishreyas.wixsite.com/shreyas-portfolio) · [LinkedIn](https://linkedin.com/in/shreyas-chigurupati)
