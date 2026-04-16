@@ -10,13 +10,15 @@
 
 ## 👨‍💻 About Me
 
+> Imaging & CV Engineer at Microsoft with an MSc in Robotics & AI, specializing in computer vision, deep learning, and autonomous systems. I build perception pipelines, train vision models, and explore the intersection of imaging science and AI — now expanding into large-scale AI engineering, multimodal systems, and agentic AI. Passionate about turning cutting-edge research into real-world intelligent systems.
+
 - 🎓 **MSc Robotics & AI** — autonomous systems and perception
 - 💼 **Imaging & CV Engineer @ Microsoft**
 - 📍 Based in **Redmond, WA**
 - 🔭 Working on **Computer Vision, Deep Learning, and Motion Planning**
 - 🚀 Transitioning into **AI Engineering**
 - 🌱 Exploring **LLMs, Multimodal AI, and Agentic Systems**
-- 💼 **Open to Full-Time opportunities** in AI / ML / Robotics
+- 🤝 **Open to Full-Time opportunities** in AI / ML / Robotics
 - 🌐 [Portfolio](https://chigurupatishreyas.wixsite.com/shreyas-portfolio) · [LinkedIn](https://linkedin.com/in/shreyas-chigurupati)
 
 ---
