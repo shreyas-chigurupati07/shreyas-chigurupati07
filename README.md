@@ -3,63 +3,96 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=780&lines=AI+Engineer+%40+Microsoft;Computer+Vision+%7C+Multimodal+AI+%7C+LLM+Applications;Building+production-minded+AI+systems;Open+to+Full-Time+AI+Engineer+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=820&lines=AI+Engineer+%40+Microsoft;Computer+Vision+%7C+Deep+Learning+%7C+Multimodal+AI;LLM+Applications+%7C+RAG+%7C+FastAPI;Open+to+Full-Time+AI+Engineer+Roles" alt="Typing SVG" />
 </div>
 
 <br/>
 
-## About Me
+## 👨‍💻 About Me
 
-> AI Engineer at Microsoft building production computer vision, multimodal, and LLM-powered systems. I work at the intersection of imaging, machine learning, and software engineering, with experience shipping tools for camera quality workflows, retrieval-based AI apps, and robotics perception systems.
+> AI Engineer at Microsoft with an MSc in Robotics & AI, specializing in computer vision, multimodal systems, and LLM-powered applications. I build production-minded AI tools across imaging workflows, retrieval-based apps, and robotics perception systems, with a focus on turning strong models into useful products.
 
-- 🎓 **MSc Robotics Engineering** — Worcester Polytechnic Institute, GPA 3.9
+- 🎓 **MSc Robotics & AI** — autonomous systems, perception, and applied ML
 - 💼 **AI Engineer @ Microsoft**
-- 🧠 Focused on **computer vision, multimodal workflows, and LLM applications**
-- 🚀 Interested in **end-to-end AI product development**, from model pipeline to user-facing app
+- 📍 Based in **Redmond, WA**
+- 🔭 Working on **computer vision, multimodal AI, and production AI systems**
+- 🚀 Interested in **end-to-end AI engineering**, from model pipeline to user-facing application
+- 🌱 Exploring **LLM evaluation, retrieval, and agentic workflows**
+- 🤝 **Open to Full-Time opportunities** in AI Engineering
 - 🌐 [Portfolio](https://shreyas-chigurupati07.github.io) · [LinkedIn](https://linkedin.com/in/shreyas-chigurupati)
 
 ---
 
-## What I Build
+## 🛠️ Technical Skills
 
-- Production-oriented computer vision and imaging pipelines
-- LLM applications, RAG systems, and agent workflows
-- FastAPI and Streamlit apps for AI products
-- Multimodal and robotics-adjacent perception systems
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+**Web & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Robotics & Systems**
+
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-| Project | What it shows |
-|---------|----------------|
-| [🧩 Quizify](https://github.com/shreyas-chigurupati07/Quizify) | RAG-powered quiz generation from PDFs using Vertex AI, LangChain, ChromaDB, and Streamlit |
+| Project | Description |
+|---------|-------------|
+| [🧩 Quizify](https://github.com/shreyas-chigurupati07/Quizify) | RAG-powered app that converts PDFs into topic-aware quizzes using Vertex AI, LangChain, ChromaDB, and Streamlit |
 | [✈️ Gemini Flights](https://github.com/shreyas-chigurupati07/Gemini-Flights) | FastAPI backend for AI-assisted flight search and booking workflows with tool-friendly APIs |
-| [✨ GAN-based Image Enhancement](https://github.com/shreyas-chigurupati07/GAN-based-Image-Enhancement) | Depth-image enhancement for robotic grasping with **PSNR +18%** and **SSIM +12%** |
-| [🌾 FarmNet](https://github.com/shreyas-chigurupati07/FarmNet) | Autonomous drone navigation combining simulation, path planning, and control |
+| [✨ GAN Image Enhancement](https://github.com/shreyas-chigurupati07/GAN-based-Image-Enhancement) | Depth-image enhancement pipeline for robotic grasping with **PSNR +18%** and **SSIM +12%** |
+| [🌾 FarmNet](https://github.com/shreyas-chigurupati07/FarmNet) | Autonomous drone navigation project combining simulation, path planning, and control |
+| [🎭 Mask R-CNN](https://github.com/shreyas-chigurupati07/Mask-RCNN-for-Dynamic-Environments) | Pose estimation and scene understanding system for dynamic environments using Mask R-CNN and ResNet50 |
 
 ---
 
-## Core Stack
+## 📊 Current Focus
 
 <div align="center">
 
-`Python` `PyTorch` `TensorFlow` `OpenCV` `FastAPI` `LangChain` `ChromaDB` `Vertex AI` `Docker` `AWS` `Azure` `C++` `ROS2`
+`Production AI Engineering` `Multimodal AI Systems` `LLM Evaluation` `RAG Pipelines` `Applied Computer Vision`
 
 </div>
 
 ---
 
-## Current Focus
-
-- Production AI engineering
-- Multimodal AI systems
-- LLM evaluation, retrieval, and orchestration
-- Applied computer vision for real-world products
-
----
-
-## Connect
+## 🤝 Connect
 
 <div align="center">
   <a href="https://linkedin.com/in/shreyas-chigurupati">
