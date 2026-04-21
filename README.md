@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shreyas%20Chigurupati&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20LLM%20Systems&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shreyas%20Chigurupati&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Imaging%20Engineer%20%7C%20Computer%20Vision%20%7C%20LLM%20Systems&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=820&lines=AI+Engineer+%40+Microsoft;Computer+Vision+%7C+Deep+Learning+%7C+Multimodal+AI;LLM+Applications+%7C+RAG+%7C+FastAPI;Open+to+Full-Time+AI+Engineer+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=860&lines=Imaging+Engineer+%40+Microsoft;Computer+Vision+%7C+Deep+Learning+%7C+Multimodal+AI;LLM+Applications+%7C+RAG+%7C+FastAPI;Open+to+Full-Time+AI+Engineer+Roles" alt="Typing SVG" />
 </div>
 
 <br/>
 
 ## 👨‍💻 About Me
 
-> AI Engineer at Microsoft with an MSc in Robotics & AI, specializing in computer vision, multimodal systems, and LLM-powered applications. I build production-minded AI tools across imaging workflows, retrieval-based apps, and robotics perception systems, with a focus on turning strong models into useful products.
+> Imaging Engineer at Microsoft with an MSc in Robotics & AI, specializing in computer vision, multimodal systems, and LLM-powered applications. I work across camera image quality workflows, automation, and AI tooling, including a CLIP-based scene detection tool for subjective evaluation workflows.
 
 - 🎓 **MSc Robotics & AI** — autonomous systems, perception, and applied ML
-- 💼 **AI Engineer @ Microsoft**
+- 💼 **Imaging Engineer @ Microsoft**
 - 📍 Based in **Redmond, WA**
-- 🔭 Working on **computer vision, multimodal AI, and production AI systems**
+- 🔭 Working on **computer vision, multimodal AI, and imaging workflows**
 - 🚀 Interested in **end-to-end AI engineering**, from model pipeline to user-facing application
 - 🌱 Exploring **LLM evaluation, retrieval, and agentic workflows**
 - 🤝 **Open to Full-Time opportunities** in AI Engineering
@@ -86,7 +86,7 @@
 
 <div align="center">
 
-`Production AI Engineering` `Multimodal AI Systems` `LLM Evaluation` `RAG Pipelines` `Applied Computer Vision`
+`Computer Vision` `Imaging Workflows` `Multimodal AI Systems` `LLM Evaluation` `RAG Pipelines` `Applied AI Engineering`
 
 </div>
 
