@@ -10,10 +10,10 @@
 
 ## 👨‍💻 About Me
 
-> Imaging Engineer at Microsoft with an MSc in Robotics & AI, specializing in computer vision, multimodal systems, and LLM-powered applications. I work across camera image quality workflows, automation, and AI tooling, including a CLIP-based scene detection tool for subjective evaluation workflows.
+> Imaging Processing Engineer at Microsoft with an MSc in Robotics & AI, specializing in computer vision, multimodal systems, and LLM-powered applications. I work across camera image quality workflows, automation, and AI tooling, including a CLIP-based scene detection tool for subjective evaluation workflows.
 
 - 🎓 **MSc Robotics & AI** — autonomous systems, perception, and applied ML
-- 💼 **Imaging Engineer @ Microsoft**
+- 💼 **Imaging Processing Engineer @ Microsoft**
 - 📍 Based in **Redmond, WA**
 - 🔭 Working on **computer vision, multimodal AI, and imaging processing workflows**
 - 🚀 Interested in **end-to-end AI engineering**, from model pipeline to user-facing application
@@ -86,7 +86,7 @@
 
 <div align="center">
 
-`Computer Vision` `Imaging Workflows` `Multimodal AI Systems` `LLM Evaluation` `RAG Pipelines` `Applied AI Engineering`
+`Computer Vision` `Imaging Processing Workflows` `Multimodal AI Systems` `LLM Evaluation` `RAG Pipelines` `Applied AI Engineering`
 
 </div>
 
